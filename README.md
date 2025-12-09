@@ -1,4 +1,4 @@
-## 📊 𝐄𝐬𝐭𝐚𝐝𝐢́𝐬𝐭𝐢𝐜𝐚𝐬 𝐝𝐞 𝐆𝐢𝐭𝐇𝐮𝐛
+## 📊 𝐄𝐬𝐭𝐚𝐝i𝐬𝐭𝐢𝐜𝐚𝐬 𝐝𝐞 𝐆𝐢𝐭𝐇𝐮𝐛
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shadox-xyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" width="49%" />

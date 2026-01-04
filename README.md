@@ -7,12 +7,9 @@
 </td>
 <td>
 
-## 🌱 Bienvenido, soy **Shadox**
+## 🌱 Welcome, soy **ɪ'ᴍ sʜᴀᴅᴏᴡ's xʏᴢ**
 
-💻 Desarrollador JavaScript  
-🤖 Creador de bots de WhatsApp  
-🚀 Aprendiendo y mejorando cada día  
-🌌 Amante del código limpio y creativo  
+💻 Desarrollador x diversión  
 
 </td>
 </tr>

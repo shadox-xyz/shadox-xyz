@@ -23,23 +23,13 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
-?username=shadox-xyz
-&show_icons=true
-&theme=tokyonight
-&include_all_commits=true
-&count_private=true
-&hide_border=true
-&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadox-xyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs
-?username=shadox-xyz
-&layout=compact
-&langs_count=10
-&theme=tokyonight
-&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadox-xyz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shadox-xyz&theme=tokyonight&no-bg=true&margin-w=8" />
 </p>
